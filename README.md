@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hi 👋,Abrar Shahrier Arnab
 
-<!--
-**arnob56/arnob56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science & Engineering Graduate  
+💻 Backend Developer | Problem Solver  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- Strong foundation in **Data Structures & Algorithms**
+- Backend development using **Flask & FastAPI**
+- Experience with **PostgreSQL**, REST APIs, and authentication
+- Interested in **scalable systems and clean code**
+
+---
+
+## 🛠 Tech Stack
+**Languages:** Python, C, C++  
+**Backend:** Flask, FastAPI  
+**Database:** PostgreSQL, SQLite  
+**Tools:** Git, GitHub, Docker (basic), Linux  
+**Deployment:** Render, Vercel  
+
+---
+
+## 📌 Featured Projects
+🔹 **Cat Adoption Platform**  
+- Flask backend with PostgreSQL  
+- REST APIs, filters, swipe-based matching  
+- Deployed on Render  
+
+🔹 **FastAPI CRUD Service**  
+- Async APIs with validation  
+- JWT authentication  
+- Production-ready structure  
+
+🔹 **DSA Practice (LeetCode)**  
+- Clean, optimized solutions  
+- Focus on medium–hard problems  
+
+👉 More projects below ⬇️
+
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+
+---
+
+## 📫 Contact
+- LinkedIn: https://linkedin.com/in/YOUR_ID
+- Email: your@email.com
