@@ -49,6 +49,7 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=arnob56&theme=tokyonight&hide_border=true)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arnob56&show_icons=true)
 
 
 
