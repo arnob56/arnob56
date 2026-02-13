@@ -43,7 +43,10 @@
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arnob56&show_icons=true&theme=default&hide_border=true&cache_seconds=21600)
+![Repos](https://img.shields.io/badge/Repos-?-blue?style=for-the-badge&logo=github)
+![Followers](https://img.shields.io/github/followers/arnob56?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/arnob56?style=for-the-badge)
+
 
 
 
