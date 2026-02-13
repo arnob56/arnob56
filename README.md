@@ -43,7 +43,8 @@
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arnob56&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arnob56&show_icons=true&theme=default&hide_border=true&cache_seconds=21600)
+
 
 
 ---
