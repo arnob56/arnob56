@@ -43,7 +43,7 @@
 ---
 
 ## 📊 GitHub Stats
-![Repos](https://img.shields.io/badge/Repos-?-blue?style=for-the-badge&logo=github)
+![Repos](https://img.shields.io/badge/dynamic/json?color=blue&label=Repos&query=$.public_repos&url=https://api.github.com/users/arnob56)
 ![Followers](https://img.shields.io/github/followers/arnob56?style=for-the-badge)
 ![Stars](https://img.shields.io/github/stars/arnob56?style=for-the-badge)
 
