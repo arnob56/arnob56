@@ -27,10 +27,10 @@
 ---
 
 ## 📌 Featured Projects
-🔹 **Cat Adoption Platform**  
-- Flask backend with PostgreSQL  
-- REST APIs, filters, swipe-based matching  
-- Deployed on Render  
+🔹 **React Based Task System**  
+-  Add, Edit and Delete Task
+- Uses Local Storage
+- Deployed on Vercel  
 
 🔹 **FastAPI CRUD Service**  
 - Async APIs with validation  
