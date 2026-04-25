@@ -136,7 +136,7 @@ I build **scalable, efficient, and production-ready applications** with a strong
 ## 📫 Contact Me  
 
 - 🔗 LinkedIn: https://www.linkedin.com/in/arnab13311  
-- 📧 Email: abrarshahrierarnab@email.com  
+- 📧 Email: abrarshahrierarnab@gmail.com  
 
 ---
 
