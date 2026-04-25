@@ -107,7 +107,24 @@ I build **scalable, efficient, and production-ready applications** with a strong
 
 ### ⚡ Streak  
 ![Streak](https://streak-stats.demolab.com?user=arnob56&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=arnob56&theme=dark&hide_border=false&include_all_commits=true&count_private=false" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=arnob56&theme=dark&hide_border=false" width="48%" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=arnob56&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" width="50%" />
+</p>
+
+###
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+### 📊 Profile Summary
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arnob56&theme=github_dark" />
+</p>
 ---
 
 ## 🐍 Contribution Snake  
