@@ -1,7 +1,7 @@
 # 👋 Hey, I'm Abrar Shahrier Arnab  
 
 🎓 CSE Graduate  
-💻 Full Stack Developer | Software Engineer | UI/UX Enthusiast  
+💻  Software Engineer | UI/UX Enthusiast | Full Stack Developer 
 
 ---
 
