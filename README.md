@@ -3,6 +3,8 @@
 🎓 CSE Graduate  
 💻  Software Engineer | UI/UX Enthusiast | Full Stack Developer 
 
+**** Working as a Software Engineer -  Intern in Progeny Technologies Limited since June 2026
+
 ---
 
 ## 🚀 About Me  
